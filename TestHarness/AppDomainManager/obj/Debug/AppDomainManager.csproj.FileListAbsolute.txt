@@ -1,0 +1,4 @@
+K:\SMA\workspace\TestHarness\AppDomainManager\bin\Debug\AppDomainManager.dll
+K:\SMA\workspace\TestHarness\AppDomainManager\bin\Debug\AppDomainManager.pdb
+K:\SMA\workspace\TestHarness\AppDomainManager\obj\Debug\AppDomainManager.dll
+K:\SMA\workspace\TestHarness\AppDomainManager\obj\Debug\AppDomainManager.pdb

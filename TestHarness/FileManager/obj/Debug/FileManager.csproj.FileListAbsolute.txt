@@ -1,0 +1,5 @@
+K:\SMA\workspace\TestHarness\FileManager\bin\Debug\FileManager.dll
+K:\SMA\workspace\TestHarness\FileManager\bin\Debug\FileManager.pdb
+K:\SMA\workspace\TestHarness\FileManager\obj\Debug\FileManager.dll
+K:\SMA\workspace\TestHarness\FileManager\obj\Debug\FileManager.pdb
+K:\SMA\workspace\TestHarness\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache

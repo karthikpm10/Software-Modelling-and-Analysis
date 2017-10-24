@@ -1,0 +1,5 @@
+K:\SMA\workspace\TestHarness\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.dll
+K:\SMA\workspace\TestHarness\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+K:\SMA\workspace\TestHarness\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\TestHarness\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.dll
+K:\SMA\workspace\TestHarness\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

@@ -1,0 +1,4 @@
+K:\SMA\workspace\TestHarness\CodeToTest2\bin\Debug\CodeToTest2.dll
+K:\SMA\workspace\TestHarness\CodeToTest2\bin\Debug\CodeToTest2.pdb
+K:\SMA\workspace\TestHarness\CodeToTest2\obj\Debug\CodeToTest2.dll
+K:\SMA\workspace\TestHarness\CodeToTest2\obj\Debug\CodeToTest2.pdb

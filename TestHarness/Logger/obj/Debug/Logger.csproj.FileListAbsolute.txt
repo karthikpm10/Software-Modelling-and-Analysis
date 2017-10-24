@@ -1,0 +1,5 @@
+K:\SMA\workspace\TestHarness\Logger\bin\Debug\Logger.dll
+K:\SMA\workspace\TestHarness\Logger\bin\Debug\Logger.pdb
+K:\SMA\workspace\TestHarness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\TestHarness\Logger\obj\Debug\Logger.dll
+K:\SMA\workspace\TestHarness\Logger\obj\Debug\Logger.pdb

@@ -1,0 +1,4 @@
+K:\SMA\workspace\TestHarness\IHelloInterface\bin\Debug\IHelloInterface.dll
+K:\SMA\workspace\TestHarness\IHelloInterface\bin\Debug\IHelloInterface.pdb
+K:\SMA\workspace\TestHarness\IHelloInterface\obj\Debug\IHelloInterface.dll
+K:\SMA\workspace\TestHarness\IHelloInterface\obj\Debug\IHelloInterface.pdb

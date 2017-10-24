@@ -1,0 +1,13 @@
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\TestDriver.dll
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\TestDriver.pdb
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\CodeToTest1.dll
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\CodeToTest2.dll
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\TestInterface.dll
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\CodeToTest1.pdb
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\CodeToTest2.pdb
+K:\SMA\workspace\TestHarness\TestDriver\bin\Debug\TestInterface.pdb
+K:\SMA\workspace\TestHarness\TestDriverLibraries\TestDriver.dll
+K:\SMA\workspace\TestHarness\TestDriverLibraries\TestDriver.pdb
+K:\SMA\workspace\TestHarness\TestDriver\obj\Debug\TestDriver.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\TestHarness\TestDriver\obj\Debug\TestDriver.dll
+K:\SMA\workspace\TestHarness\TestDriver\obj\Debug\TestDriver.pdb

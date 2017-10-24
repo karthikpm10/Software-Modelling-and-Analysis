@@ -1,0 +1,5 @@
+K:\SMA\workspace\TestHarness\TestInterface\bin\Debug\TestInterface.dll
+K:\SMA\workspace\TestHarness\TestInterface\bin\Debug\TestInterface.pdb
+K:\SMA\workspace\TestHarness\TestInterface\obj\Debug\TestInterface.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\TestHarness\TestInterface\obj\Debug\TestInterface.dll
+K:\SMA\workspace\TestHarness\TestInterface\obj\Debug\TestInterface.pdb

@@ -1,0 +1,11 @@
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\Loader.dll
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\Loader.pdb
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\LoaderInterface.dll
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\Logger.dll
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\TestInterface.dll
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\LoaderInterface.pdb
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\Logger.pdb
+K:\SMA\workspace\TestHarness\Loader\bin\Debug\TestInterface.pdb
+K:\SMA\workspace\TestHarness\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\TestHarness\Loader\obj\Debug\Loader.dll
+K:\SMA\workspace\TestHarness\Loader\obj\Debug\Loader.pdb
