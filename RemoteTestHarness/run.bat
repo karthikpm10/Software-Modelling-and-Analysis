@@ -1,0 +1,11 @@
+cd Repository\bin\Debug
+start Repository.exe
+cd ..\..\..\
+cd TestHarness\bin\Debug
+start TestHarness.exe
+cd ..\..\..\
+cd ClientUI/bin/Debug
+start ClientUI.exe
+cd ..\..\..\
+cd Client2/bin/Debug
+start Client2.exe

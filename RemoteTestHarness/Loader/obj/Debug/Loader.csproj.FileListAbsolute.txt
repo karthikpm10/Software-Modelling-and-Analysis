@@ -1,0 +1,15 @@
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Loader.dll
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Loader.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\HRTimer.exe
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\IInterfaces.dll
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Logger.dll
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\TestHarnessMessages.exe
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Messages.exe
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\HRTimer.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\IInterfaces.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Logger.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\TestHarnessMessages.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\bin\Debug\Messages.pdb
+K:\SMA\workspace\Project4\TestHarness\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\Project4\TestHarness\Loader\obj\Debug\Loader.dll
+K:\SMA\workspace\Project4\TestHarness\Loader\obj\Debug\Loader.pdb

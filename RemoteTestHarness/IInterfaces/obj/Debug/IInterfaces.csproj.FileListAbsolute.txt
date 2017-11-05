@@ -1,0 +1,11 @@
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\IInterfaces.dll
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\IInterfaces.pdb
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\Logger.dll
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\Messages.exe
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\TestHarnessMessages.exe
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\Logger.pdb
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\Messages.pdb
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\bin\Debug\TestHarnessMessages.pdb
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\obj\Debug\IInterfaces.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\obj\Debug\IInterfaces.dll
+K:\SMA\workspace\Project4\TestHarness\IInterfaces\obj\Debug\IInterfaces.pdb

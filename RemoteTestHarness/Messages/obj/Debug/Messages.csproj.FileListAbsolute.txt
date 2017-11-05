@@ -1,0 +1,6 @@
+K:\SMA\workspace\Project4\TestHarness\Messages\bin\Debug\Messages.exe.config
+K:\SMA\workspace\Project4\TestHarness\Messages\bin\Debug\Messages.exe
+K:\SMA\workspace\Project4\TestHarness\Messages\bin\Debug\Messages.pdb
+K:\SMA\workspace\Project4\TestHarness\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\Project4\TestHarness\Messages\obj\Debug\Messages.exe
+K:\SMA\workspace\Project4\TestHarness\Messages\obj\Debug\Messages.pdb

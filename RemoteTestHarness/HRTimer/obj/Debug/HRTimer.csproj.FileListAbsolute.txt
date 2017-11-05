@@ -1,0 +1,5 @@
+K:\SMA\workspace\Project4\TestHarness\HRTimer\bin\Debug\HRTimer.exe.config
+K:\SMA\workspace\Project4\TestHarness\HRTimer\bin\Debug\HRTimer.exe
+K:\SMA\workspace\Project4\TestHarness\HRTimer\bin\Debug\HRTimer.pdb
+K:\SMA\workspace\Project4\TestHarness\HRTimer\obj\Debug\HRTimer.exe
+K:\SMA\workspace\Project4\TestHarness\HRTimer\obj\Debug\HRTimer.pdb

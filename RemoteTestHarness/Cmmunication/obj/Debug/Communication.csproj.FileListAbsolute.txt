@@ -1,0 +1,10 @@
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\Cmmunication.exe.config
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\Cmmunication.exe
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\Cmmunication.pdb
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\CS-BlockingQueue.exe
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\Messages.exe
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\CS-BlockingQueue.pdb
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\bin\Debug\Messages.pdb
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\obj\Debug\Cmmunication.exe
+K:\SMA\workspace\Project4\TestHarness\Cmmunication\obj\Debug\Cmmunication.pdb

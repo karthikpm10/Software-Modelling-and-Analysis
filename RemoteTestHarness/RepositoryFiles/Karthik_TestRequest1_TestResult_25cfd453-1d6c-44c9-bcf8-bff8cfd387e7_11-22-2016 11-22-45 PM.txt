@@ -1,0 +1,17 @@
+11/22/2016 11:22:45 PM : <?xml version="1.0" encoding="utf-16"?>
+<TestResults>
+  <author>Karthik</author>
+  <timeStamp>2016-11-22T23:22:44.8949475-05:00</timeStamp>
+  <results>
+    <TestResult>
+      <testName>firstTest</testName>
+      <passed>true</passed>
+      <log>Karthik_TestRequest1_4345d7b5-8437-4511-9970-2d14cc0078e5_11-22-2016 11-22-44 PM.txt</log>
+    </TestResult>
+    <TestResult>
+      <testName>SecondTest</testName>
+      <passed>false</passed>
+      <log>Karthik_TestRequest1_4345d7b5-8437-4511-9970-2d14cc0078e5_11-22-2016 11-22-44 PM.txt</log>
+    </TestResult>
+  </results>
+</TestResults>

@@ -1,0 +1,5 @@
+K:\SMA\workspace\Project4\TestHarness\Serialization\bin\Debug\Serialization.exe.config
+K:\SMA\workspace\Project4\TestHarness\Serialization\bin\Debug\Serialization.exe
+K:\SMA\workspace\Project4\TestHarness\Serialization\bin\Debug\Serialization.pdb
+K:\SMA\workspace\Project4\TestHarness\Serialization\obj\Debug\Serialization.exe
+K:\SMA\workspace\Project4\TestHarness\Serialization\obj\Debug\Serialization.pdb
