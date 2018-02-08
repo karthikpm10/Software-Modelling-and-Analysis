@@ -1,6 +1,8 @@
 # CSE681-SMA
 Software Modelling and Analysis
 
+Projects
+
 Test Harness - C#
 
 The biggest concern when developing a software is to make sure that the software meets the requirements and functions as expected. To do so, the software has to be tested as and when its developed. Complex real time software projects are often developed by hundreds of people and each developer is responsible for implementing certain modules. Each of the modules should be tested thoroughly before inserting them to the final build. As and when changes are made to these modules these tests should be re-run. As there are so many packages the only way to make this intensive testing practical is to automate the process.
